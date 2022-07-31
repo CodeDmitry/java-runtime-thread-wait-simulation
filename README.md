@@ -3,6 +3,6 @@ A proof of concept for simulating Java's "wait for threads to finish before proc
 
 There are bugs in this implementation, do not use in anything serious.
 
-- build.sh makes the exponential test, `main`.
+- [build.sh](build.sh) makes the exponential test, `main`.
 - build2.sh makes the simple test, `main2`.
 - buildpoc.sh makes the original single-file test(obsolete), `poc`.
